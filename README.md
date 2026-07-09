@@ -17,3 +17,6 @@ Willkommen in meiner Content-Bibliothek.
 - Kundenprojekte
 - Prompts
 - Vorlagen
+# Patrick Dietz
+
+Hier liegen alle Beiträge für mein persönliches LinkedIn-Profil.
